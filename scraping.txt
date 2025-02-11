@@ -1,0 +1,10 @@
+Heading Utama: Excell Timothy Josua Tarigan
+H1: Excell Timothy Josua Tarigan
+H2: Hobi
+H2: Motto
+H2: Skills
+H2: My Project
+H3: Kontak Sosial Media
+Paragraf 1 dalam Tentang: Perkenalkan saya adalah mahasiswa D4 teknik Informatika dari Politeknik Negeri Bandung.
+Paragraf 2 dalam Tentang: Saya memiliki ketertarikan dibidang IT, yang meliputi pengembangan AI, data scrapping, dan lain-lain.
+Paragraf 3 dalam Tentang: Alasan tersebut membuat saya memilih program studi ini.
