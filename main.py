@@ -27,6 +27,20 @@ if response.status_code == 200:
             for idx, p in enumerate(paragraphs, 1):
                 print(f'Paragraf {idx} dalam Tentang:', p.get_text())
                 scrap.write(f'Paragraf {idx} dalam Tentang: {p.get_text()}\n')
+
+        hobi = soup.find(name='div', id='hobi')
+        if hobi:
+            paragraphs = hobi.find_all('p')
+            for idx, p in enumerate(paragraphs, 1):
+                print(f'Paragraf {idx} dalam Hobi:', p.get_text())
+                scrap.write(f'Paragraf {idx} dalam Hobi: {p.get_text()}\n')
+
+        footer = soup.find(name='div', id='Contact')
+        if footer:
+            paragraphs = footer.find_all('p')
+            for idx, p in enumerate(paragraphs, 1):
+                print(f'Paragraf {idx} dalam Hobi:', p.get_text())
+                scrap.write(f'Paragraf {idx} dalam Hobi: {p.get_text()}\n')
 else:
     print("Gagal mengambil halaman. Status Code:", response.status_code)
 

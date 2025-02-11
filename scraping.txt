@@ -8,3 +8,9 @@ H3: Kontak Sosial Media
 Paragraf 1 dalam Tentang: Perkenalkan saya adalah mahasiswa D4 teknik Informatika dari Politeknik Negeri Bandung.
 Paragraf 2 dalam Tentang: Saya memiliki ketertarikan dibidang IT, yang meliputi pengembangan AI, data scrapping, dan lain-lain.
 Paragraf 3 dalam Tentang: Alasan tersebut membuat saya memilih program studi ini.
+Paragraf 1 dalam Hobi: 
+            Membaca Manhwa 
+            Main Game 
+            Bermain Sepak Bola 
+            Koding di Python
+        
